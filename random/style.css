@@ -1,0 +1,15 @@
+. {
+    border: 0px;
+    padding: 0px;
+    border: border-box;
+}
+body {
+    color: antiquewhite;
+}
+.one {
+    height: 80px;
+    width: 150px;
+    background-color: brown;
+    border-radius: 15px;
+
+}
